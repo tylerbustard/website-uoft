@@ -1,0 +1,7 @@
+{
+  "remote.portsAttributes": {
+    "5177": { "label": "UofT Site", "onAutoForward": "openPreview" }
+  }
+}
+
+

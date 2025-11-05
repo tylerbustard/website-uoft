@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+# Local artifacts
+.chrome
+chrome
+.cloudflared.log
+.cloudflared_pid
+.server_dev.log
+.server_pid
+uploads/**

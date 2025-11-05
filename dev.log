@@ -1,0 +1,10 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+11:14:31 PM [express] serving on http://127.0.0.1:3001
+11:14:31 PM [express] Tyler Bustard user ready for PDF uploads
+Browserslist: browsers data (caniuse-lite) is 11 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+11:14:38 PM [vite] Pre-transform error: Failed to resolve import "@assets/Untitled design (1)_1755896187722.png" from "client/src/pages/resume-variation-1.tsx". Does the file exist?
