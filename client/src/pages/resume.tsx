@@ -264,7 +264,7 @@ export default function Resume() {
                   </ul>
                   <div className="mt-2 pl-16 flex flex-wrap gap-2">
                     {['Monitoring Controls', 'Reconciliation', 'NAV Validation', 'SQL', 'Excel'].map((skill) => (
-                      <span key={skill} className="inline-block px-2.5 py-1 rounded-lg bg-blue-50 text-blue-600 border border-blue-200 text-xs font-semibold">
+                      <span key={skill} className="resume-skill-chip inline-block px-2.5 py-1 rounded-lg bg-blue-50 text-blue-600 border border-blue-200 text-xs font-semibold">
                         {skill}
                       </span>
                     ))}
@@ -302,7 +302,7 @@ export default function Resume() {
                   </ul>
                   <div className="mt-2 pl-16 flex flex-wrap gap-2">
                     {['Portfolio Management', 'Client Relations', 'Financial Analysis', 'Excel'].map((skill) => (
-                      <span key={skill} className="inline-block px-2.5 py-1 rounded-lg bg-blue-50 text-blue-600 border border-blue-200 text-xs font-semibold">
+                      <span key={skill} className="resume-skill-chip inline-block px-2.5 py-1 rounded-lg bg-blue-50 text-blue-600 border border-blue-200 text-xs font-semibold">
                         {skill}
                       </span>
                     ))}
@@ -732,6 +732,14 @@ export default function Resume() {
           .border-green-200 { border-color: #bbf7d0 !important; }
           .border-red-200 { border-color: #fecaca !important; }
           .border-purple-200 { border-color: #e9d5ff !important; }
+
+          .resume-skill-chip {
+            background: transparent !important;
+            border: none !important;
+            padding: 0 !important;
+            border-radius: 0 !important;
+            color: #1f2937 !important;
+          }
           
           /* Profile image adjustments */
           img {
