@@ -344,3 +344,69 @@ Browserslist: browsers data (caniuse-lite) is 13 months old. Please run:
 9:45:06 PM [vite] hmr update /src/pages/resume-upload-signin.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
 9:45:06 PM [express] GET /api/videos 304 in 0ms :: []
 9:45:27 PM [vite] hmr update /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:40:14 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:40:20 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:40:26 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:40:40 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:40:40 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:40:54 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:42:53 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:42:53 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:42:53 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:44:54 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:45:14 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:45:45 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:48:04 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:48:04 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:48:04 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:48:04 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:48:30 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:48:30 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:48:30 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:48:30 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:51:11 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:51:11 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:51:11 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:51:11 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:51:36 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:51:36 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+10:51:36 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:51:36 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:55:17 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:55:31 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:55:55 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:55:56 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:56:06 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:56:27 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:56:35 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:56:55 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:57:03 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:57:03 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:57:16 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:57:18 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:57:30 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:59:56 PM [vite] page reload src/pages/resume-variation-1.tsx
+10:59:57 PM [vite] page reload src/pages/resume-variation-2.tsx
+10:59:57 PM [vite] page reload src/pages/resume-variation-3.tsx
+10:59:57 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:00:19 PM [vite] page reload src/pages/resume-variation-1.tsx
+11:00:19 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:00:19 PM [vite] page reload src/pages/resume-variation-3.tsx
+11:00:20 PM [vite] page reload src/pages/resume-variation-2.tsx
+11:00:46 PM [vite] page reload src/pages/resume-variation-1.tsx
+11:00:46 PM [vite] page reload src/pages/resume-variation-2.tsx
+11:00:46 PM [vite] page reload src/pages/resume-variation-3.tsx
+11:00:46 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:00:54 PM [vite] page reload src/pages/resume-variation-3.tsx
+11:00:54 PM [vite] page reload src/pages/resume-variation-2.tsx
+11:00:54 PM [vite] page reload src/pages/resume-variation-1.tsx
+11:00:54 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:01:24 PM [vite] page reload src/pages/resume-variation-1.tsx
+11:01:24 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:01:24 PM [vite] page reload src/pages/resume-variation-3.tsx
+11:01:24 PM [vite] page reload src/pages/resume-variation-2.tsx
+11:02:25 PM [vite] hmr update /src/pages/resume.tsx, /src/index.css?v=ZbCjW3JBJETg_E7xM9SB4
+11:02:32 PM [vite] page reload src/pages/resume-variation-1.tsx
+11:02:33 PM [vite] page reload src/pages/resume-variation-3.tsx
+11:02:34 PM [vite] page reload src/pages/resume-variation-2.tsx
+11:02:57 PM [vite] page reload src/pages/resume-variation-2.tsx
